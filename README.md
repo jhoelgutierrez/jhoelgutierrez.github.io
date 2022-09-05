@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hola que tal, este es mi blog personal 👋
 
 <!--
 **jhoelgutierrez/jhoelgutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Aqui publicate todos mis proyectos webs
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
